@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/abdelrahman/static/css/main.0edb1303.css",
+    "main.js": "/abdelrahman/static/js/main.172ca2f3.js",
+    "static/media/Kasper.png": "/abdelrahman/static/media/Kasper.bec0c5bf40f261cb7b1a.png",
+    "static/media/CV-website.png": "/abdelrahman/static/media/CV-website.00b2639a3e5cafa15e68.png",
+    "static/media/Leon.png": "/abdelrahman/static/media/Leon.358773cedf3b743bfba1.png",
+    "static/media/Omnifood.png": "/abdelrahman/static/media/Omnifood.10c9b42bb71df1e08054.png",
+    "static/media/forkify.png": "/abdelrahman/static/media/forkify.a16a9e68b48295cde88a.png",
+    "static/media/mapty.png": "/abdelrahman/static/media/mapty.6516d959aa8f5ad253cf.png",
+    "static/media/Pig-Game.png": "/abdelrahman/static/media/Pig-Game.5c19415bb30798ddd10c.png",
+    "static/media/bankist-website.png": "/abdelrahman/static/media/bankist-website.fa1c17f065c8066c9920.png",
+    "static/media/passwords.png": "/abdelrahman/static/media/passwords.42920f0e6b72d5e80006.png",
+    "static/media/Bankist.png": "/abdelrahman/static/media/Bankist.cb36f0049414e97823ce.png",
+    "static/media/productivity-zone.png": "/abdelrahman/static/media/productivity-zone.357fc86db1a1825038af.png",
+    "static/media/email.png": "/abdelrahman/static/media/email.dee95624eea450817282.png",
+    "static/media/special.jpg": "/abdelrahman/static/media/special.b8607a064a1256ecfe79.jpg",
+    "static/media/download1.png": "/abdelrahman/static/media/download1.5ce389421b6b45f92c79.png",
+    "static/media/weather-app.png": "/abdelrahman/static/media/weather-app.24802fd3fb1625bc44f7.png",
+    "static/media/chat.png": "/abdelrahman/static/media/chat.93a02a856d6482636b69.png",
+    "static/media/sst.png": "/abdelrahman/static/media/sst.ef3ccb7fa90cf0c17e1a.png",
+    "static/media/redux.png": "/abdelrahman/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/abdelrahman/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/abdelrahman/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/mobile.png": "/abdelrahman/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/css.png": "/abdelrahman/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/firebase.png": "/abdelrahman/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "index.html": "/abdelrahman/index.html",
+    "static/media/footer-logo.svg": "/abdelrahman/static/media/footer-logo.59b95986d0b0b6ab184148cb85368ff7.svg",
+    "main.0edb1303.css.map": "/abdelrahman/static/css/main.0edb1303.css.map",
+    "main.172ca2f3.js.map": "/abdelrahman/static/js/main.172ca2f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0edb1303.css",
+    "static/js/main.172ca2f3.js"
+  ]
+}
